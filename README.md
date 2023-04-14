@@ -1,2 +1,2 @@
 # project_AI
-reconnaissance des chiffres manuscrits/immatriculation des voitures
+reconnaissance des chiffres manuscrits
